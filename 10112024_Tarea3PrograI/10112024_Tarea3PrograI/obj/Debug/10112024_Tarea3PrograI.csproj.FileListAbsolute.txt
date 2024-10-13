@@ -1,0 +1,10 @@
+G:\10112024_Tarea3PrograI\10112024_Tarea3PrograI\obj\Debug\10112024_Tarea3PrograI.csproj.AssemblyReference.cache
+G:\10112024_Tarea3PrograI\10112024_Tarea3PrograI\obj\Debug\_10112024_Tarea3PrograI.Form1.resources
+G:\10112024_Tarea3PrograI\10112024_Tarea3PrograI\obj\Debug\_10112024_Tarea3PrograI.Properties.Resources.resources
+G:\10112024_Tarea3PrograI\10112024_Tarea3PrograI\obj\Debug\10112024_Tarea3PrograI.csproj.GenerateResource.cache
+G:\10112024_Tarea3PrograI\10112024_Tarea3PrograI\obj\Debug\10112024_Tarea3PrograI.csproj.CoreCompileInputs.cache
+G:\10112024_Tarea3PrograI\10112024_Tarea3PrograI\bin\Debug\10112024_Tarea3PrograI.exe.config
+G:\10112024_Tarea3PrograI\10112024_Tarea3PrograI\bin\Debug\10112024_Tarea3PrograI.exe
+G:\10112024_Tarea3PrograI\10112024_Tarea3PrograI\bin\Debug\10112024_Tarea3PrograI.pdb
+G:\10112024_Tarea3PrograI\10112024_Tarea3PrograI\obj\Debug\10112024_Tarea3PrograI.exe
+G:\10112024_Tarea3PrograI\10112024_Tarea3PrograI\obj\Debug\10112024_Tarea3PrograI.pdb
